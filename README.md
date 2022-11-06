@@ -1,4 +1,4 @@
-# Customise your VS Code
+# Customise your VS Code like this 
 
 <img src="https://github.com/karanrao-github/Custom-theme/blob/main/image/Screenshot%20(625).png?raw=true" style=" width:900px ; height:500px "  >
 
