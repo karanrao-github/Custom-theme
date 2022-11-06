@@ -1,5 +1,7 @@
 # Customise your VS Code
 
+<img src="https://github.com/karanrao-github/Custom-theme/blob/main/image/Screenshot%20(625).png?raw=true" style=" width:900px ; height:500px "  >
+
 ### Mac OS Fonts
 
 1. [Install Fira Code on your device](https://github.com/tonsky/FiraCode)
