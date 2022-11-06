@@ -1,5 +1,5 @@
 # Customise your VS Code
----
+
 ### Mac OS Fonts
 
 1. [Install Fira Code on your device](https://github.com/tonsky/FiraCode)
